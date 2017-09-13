@@ -1,0 +1,17 @@
+{
+  "name": "node-camera-detection",
+  "version": "1.0.0",
+  "description": "A Node.JS app to run analysis on IP cameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Gillham",
+  "license": "LISC",
+  "dependencies": {
+    "@moovel/yolo": "^0.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+data/images/Output/*
+data/images/Scratch/*
+app/darknet/weights/*
+node_modules/
