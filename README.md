@@ -34,6 +34,12 @@ make install
 cd ..
 ```
 
+# Clone this repo
+```
+git clone https://github.com/TheCJGCJG/node-camera-detection
+cd node-camera-detection
+```
+
 # Install Weights & Configs for Darknet
 Regular Weights
 ```
