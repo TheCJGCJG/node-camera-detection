@@ -1,4 +1,4 @@
-data/images/Output/*
-data/images/Scratch/*
-app/darknet/weights/*
+data/images/Output/*png
+data/images/Scratch/*.png
+app/darknet/weights/*.weights
 node_modules/
